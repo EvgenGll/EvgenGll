@@ -11,13 +11,8 @@
 # 🛠 Language and tools:
 
 <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=JavaScript&logoColor=white"/>
- нужно строку ниже поместить в угловые скобки, в описание к видео не получается их добавить...
-img src="https://img.shields.io/badge/НАДПИСЬ НА БЕЙДЖЕ-ЦВЕТ ФОНА?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/
- нужно строку ниже поместить в угловые скобки, в описание к видео не получается их добавить...
-img src="https://img.shields.io/badge/НАДПИСЬ НА БЕЙДЖЕ-ЦВЕТ ФОНА?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/
- нужно строку ниже поместить в угловые скобки, в описание к видео не получается их добавить...
-img src="https://img.shields.io/badge/НАДПИСЬ НА БЕЙДЖЕ-ЦВЕТ ФОНА?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/
- нужно строку ниже поместить в угловые скобки, в описание к видео не получается их добавить...
-img src="https://img.shields.io/badge/НАДПИСЬ НА БЕЙДЖЕ-ЦВЕТ ФОНА?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/
- нужно строку ниже поместить в угловые скобки, в описание к видео не получается их добавить...
-img src="https://img.shields.io/badge/НАДПИСЬ НА БЕЙДЖЕ-ЦВЕТ ФОНА?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/
+ <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=JavaScript&logoColor=white"/>
