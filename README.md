@@ -10,9 +10,4 @@
  
 # 🛠 Language and tools:
 
-<img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=JavaScript&logoColor=white"/>
- <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white"/>
- <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=JavaScript&logoColor=white"/>
- <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=JavaScript&logoColor=white"/>
- <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=JavaScript&logoColor=white"/>
- <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=JavaScript&logoColor=white"/>
